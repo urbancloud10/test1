@@ -27,3 +27,4 @@ metadata:
 description: sta cluster
 gke:
   cluster: projects/urbancloudcb/locations/europe-west1-c/clusters/urbancloudcluster
+
